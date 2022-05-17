@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'NetworkApi' do
+  pod 'RXNetWorking', :path => '../'
+
+end
