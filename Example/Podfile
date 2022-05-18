@@ -1,6 +1,6 @@
 use_frameworks!
 
 target 'NetworkApi' do
-  pod 'RXNetWorking', :path => '../'
+  pod 'Pomelo', :path => '../'
 
 end
