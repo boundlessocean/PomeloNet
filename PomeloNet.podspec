@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-s.name = 'Pomelo'
+s.name = 'PomeloNet'
 s.version = '1.0.1'
 s.license = { :type => "MIT", :file => "LICENSE"}
 s.summary = 'A RXSwift&Moya&HandyJSON Networking Tool.'
